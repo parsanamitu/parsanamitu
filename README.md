@@ -112,8 +112,8 @@
 <p>
 <a href="https://github.com/parsanamitu"><img src="https://img.shields.io/badge/-Parsana_Mitwa-black?logo=github&style=flat-square"/></a>
 <a href="https://www.linkedin.com/in/mitwaparsana/"><img src="https://img.shields.io/badge/-Parsana_Mitwa-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-Parsana_Mitwa-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:edsrujana1@gmail.com"><img src="https://img.shields.io/badge/-edsrujana1@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://www.instagram.com/mitwa16/?hl=en"><img src="https://img.shields.io/badge/-Parsana_Mitwa-red?logo=instagram&style=flat-square"/></a>
+<a href="mailto:parsanamitu@gmail.com"><img src="https://img.shields.io/badge/-parsanamitu@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
 
 -----
