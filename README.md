@@ -34,12 +34,4 @@ I'm **Mitwa Parsana**, Full-Stack Developer (and also an OpenSource Contributor)
 - **Bachelor of Computer Engineering** - Universal College of Engineering, University of Mumbai *(2014 - 2017)*
 - **Diploma in Computer Technology** - Sardar Vallabh Bhai Patel Polytechnic, University of Mumbai *(2011 - 2014)*
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parsanamitu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsanamitu&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
 ## Thank you for visiting my profile.
