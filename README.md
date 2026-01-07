@@ -1,122 +1,45 @@
-   ###   Hello World! :yellow_heart:
-<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
+Hello, nice to see you. 👋
 
-<hr>
+I'm **Mitwa Parsana**, Full-Stack Developer (and also an OpenSource Contributor) from Surrey, British Columbia, Canada.
 
+[Email](mailto:parsanamitu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mitwaparsana/) | [Portfolio](https://mitwa-portfolio.lovable.app/) | [GitHub](https://github.com/parsanamitu)
 
-## My Skills :computer:
+---
 
-- **Programming Languages**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://upload.vectorlogo.zone/logos/nodejs/images/eca9ff97-5734-46c4-b8a1-621819eaeaa9.svg"> 
-</td>
+## 📃 Status
 
-<td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
+🌱 I'm currently learning advanced cloud architectures and AI/ML foundations  
+👯 I'm collaborating on open-source projects 🤝  
+✅ Checkout [My Resume](https://mitwa-portfolio.lovable.app/) | [Projects](#-projects) 
 
-</tr>
+---
 
-</tbody>
-</table>
+## 🛠️ Tech Stack
 
+**Languages:** JavaScript, TypeScript, PHP, Java (Spring Boot)  
+**Frontend:** React.js, Next.js, HTML5, CSS3, Bootstrap  
+**Backend:** Node.js, Express.js, Laravel  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD Pipelines  
+**APIs & Tools:** REST APIs, GraphQL, OAuth, JWT, SendGrid, Stripe APIs  
+**CMS:** Drupal (Headless), WordPress (Headless)  
+**Testing:** Jest, React Testing Library  
+**OS & Tools:** Windows, macOS, Linux, Cursor AI
 
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
+---
 
-<td align="center" width="33%">
-<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
-</td>
+## 🎓 Education
 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
-</td>
-
-</tr>
-
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-<hr>
-
-## Currently Learning :beginner:
-
-- **Data Science**
-
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
-
-</tbody>
-</table>
-
-- **Web Development**
-<table>
-<tbody>
- <tr>
-<td align="center" width="100%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
+- **Master of Business Administration** - University Canada West, BC, Canada *(Sept 2023 - April 2025)*
+- **Bachelor of Computer Engineering** - Universal College of Engineering, University of Mumbai *(2014 - 2017)*
+- **Diploma in Computer Technology** - Sardar Vallabh Bhai Patel Polytechnic, University of Mumbai *(2011 - 2014)*
 
 
-<hr>
+## 📊 GitHub Stats
 
-## Thank you for visiting my profile. You're a gem. :gem:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parsanamitu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsanamitu&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/durgeshsamariya/count.svg)
-
-<hr>
-
-## Connect with me. :smiley:
-
-<p>
-<a href="https://github.com/parsanamitu"><img src="https://img.shields.io/badge/-Parsana_Mitwa-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/mitwaparsana/"><img src="https://img.shields.io/badge/-Parsana_Mitwa-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://www.instagram.com/mitwa16/?hl=en"><img src="https://img.shields.io/badge/-Parsana_Mitwa-red?logo=instagram&style=flat-square"/></a>
-<a href="mailto:parsanamitu@gmail.com"><img src="https://img.shields.io/badge/-parsanamitu@gmail.com-black?logo=gmail&style=flat-square"/></a>
-</p>
-
------
-Credits: [Parsana Mitwa](https://github.com/Parsanamitu)
-
-Last Edited on: 22/06/2020
+## Thank you for visiting my profile.
